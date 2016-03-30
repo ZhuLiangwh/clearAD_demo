@@ -11,7 +11,7 @@
 
 5.会生成my.crx和my.pem 
 
-6. 恭喜大功告成了！
+6.恭喜大功告成了！
 
 
 关于插件学习 详情请见http://open.chrome.360.cn/extension_dev/manifest.html
